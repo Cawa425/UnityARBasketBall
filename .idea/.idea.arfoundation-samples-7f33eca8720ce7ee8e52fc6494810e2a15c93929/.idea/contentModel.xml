@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity Projects\arfoundation-samples-7f33eca8720ce7ee8e52fc6494810e2a15c93929" t="IncludeRecursive">
+      <e p="arfoundation-samples-7f33eca8720ce7ee8e52fc6494810e2a15c93929.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scenes" t="Include">
+          <e p="ImageTracking" t="Include">
+            <e p="TrackedImageInfoManager.cs" t="Include" />
+          </e>
+          <e p="MyScene" t="Include">
+            <e p="Plugins" t="Include">
+              <e p="IngameDebugConsole" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="DebugLogManagerEditor.cs" t="Include" />
+                </e>
+                <e p="README.txt" t="Include" />
+                <e p="Scripts" t="Include">
+                  <e p="CircularBuffer.cs" t="Include" />
+                  <e p="ConsoleMethodAttribute.cs" t="Include" />
+                  <e p="DebugLogConsole.cs" t="Include" />
+                  <e p="DebugLogEntry.cs" t="Include" />
+                  <e p="DebugLogIndexList.cs" t="Include" />
+                  <e p="DebugLogItem.cs" t="Include" />
+                  <e p="DebugLogLogcatListener.cs" t="Include" />
+                  <e p="DebugLogManager.cs" t="Include" />
+                  <e p="DebugLogPopup.cs" t="Include" />
+                  <e p="DebugLogRecycledListView.cs" t="Include" />
+                  <e p="DebugsOnScrollListener.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="BallController.cs" t="Include" />
+              <e p="myUiManager.cs" t="Include" />
+              <e p="PlaceHoop.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Object Tracking" t="Include">
+            <e p="Printable Templates" t="Include">
+              <e p="README.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ARCoreFaceRegionManager.cs" t="Include" />
+          <e p="ARFeatheredPlaneMeshVisualizer.cs" t="Include" />
+          <e p="ARKitBlendShapeVisualizer.cs" t="Include" />
+          <e p="ARWorldMapController.cs" t="Include" />
+          <e p="CameraConfigController.cs" t="Include" />
+          <e p="DisableVerticalPlanes.cs" t="Include" />
+          <e p="EnvironmentProbeVisualizer.cs" t="Include" />
+          <e p="LightEstimation.cs" t="Include" />
+          <e p="LightEstimationUI.cs" t="Include" />
+          <e p="MakeAppearOnPlane.cs" t="Include" />
+          <e p="PlaceMultipleObjectsOnPlane.cs" t="Include" />
+          <e p="PlaceOnPlane.cs" t="Include" />
+          <e p="PlaneDetectionController.cs" t="Include" />
+          <e p="RotationController.cs" t="Include" />
+          <e p="ScaleController.cs" t="Include" />
+          <e p="SetTargetFramerate.cs" t="Include" />
+          <e p="SupportChecker.cs" t="Include" />
+          <e p="TestCameraImage.cs" t="Include" />
+          <e p="UX" t="Include">
+            <e p="FadePlaneOnBoundaryChange.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="FeatheredPlaneShader.shader" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\cfifr\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\cfifr\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\cfifr\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cfifr\.Rider2019.3\system\resharper-host\Local\Transient\ReSharperHost\v193\SolutionCaches\_arfoundation-samples-7f33eca8720ce7ee8e52fc6494810e2a15c93929.238205968.00" t="ExcludeRecursive" />
+  </component>
+</project>
