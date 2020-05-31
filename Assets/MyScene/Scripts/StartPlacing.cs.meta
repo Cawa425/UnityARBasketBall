@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6039180cdc69d3446a90ddb2da133fa3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hoopPrefab: {fileID: 1331170632547295459, guid: e06c983a0adb5224783297c16af2e774,
+      type: 3}
+  - ballPrefab: {fileID: 1740736199500205537, guid: eb55717fff9bce240b8bc1d08c17bcb2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
